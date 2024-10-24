@@ -1,0 +1,5 @@
+# Ignore build artifacts for project2
+__pycache__/
+.env
+build/
+.venv/
